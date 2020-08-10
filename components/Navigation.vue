@@ -12,7 +12,7 @@
                     <a class="transition-all duration-500 ease-in-out tracking-widest text-gray-700 hover:shadow-xl hover:text-white hover:no-underline hover:outline-none" href="#portfolio">PORTFOLIO</a>
                 </li>
                 <li class="py-2 px-4 text-sm font-sans antialiased font-light">
-                    <a class="transition-all duration-500 ease-in-out tracking-widest text-gray-700 hover:shadow-xl hover:text-white hover:no-underline hover:outline-none" href="#about">ABOUT</a>
+                    <a class="transition-all duration-500 ease-in-out tracking-widest text-gray-700 hover:shadow-xl hover:text-white hover:no-underline hover:outline-none" href="#strength">STRENGTH</a>
                 </li>
                 <li class="py-2 px-4 text-sm font-sans antialiased font-light">
                     <a class="transition-all duration-500 ease-in-out tracking-widest text-gray-700 hover:shadow-xl hover:text-white hover:no-underline hover:outline-none" href="#contact">CONTACT</a>
